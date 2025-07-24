@@ -41,70 +41,70 @@ const productos = [
     {
         id: "01",
         nombre: "Mate Imperial Premium- Cuero",
-        imagen: "images/mate 1.jpg",
+        imagen: "images/mate1.jpg",
         precio: 40000
     },
 
     {
         id: "02",
         nombre: "Mate Imperial de Algarrobo",
-        imagen: "images/mate 2.jpg",
+        imagen: "images/mate2.jpg",
         precio: 36392
     },
 
     {
         id: "03",
         nombre: "Mate camionero con base de alpaca",
-        imagen: "images/mate 3.jpg",
+        imagen: "images/mate3.jpg",
         precio: 72339
     },
 
     {
         id: "04",
         nombre: "Mate de asta con bombilla de alpaca",
-        imagen: "images/mate 4.jpg",
+        imagen: "images/mate4.jpg",
         precio: 77840
     },
 
     {
         id: "05",
         nombre: "Mate Cervantes de algarrobo",
-        imagen: "images/mate 5.jpg",
+        imagen: "images/mate5.jpg",
         precio: 115050
     },
 
     {
         id: "06",
         nombre: "Mate Imperial Permium Delfina",
-        imagen: "images/mate 6.jpg",
+        imagen: "images/mate6.jpg",
         precio: 98467
     },
 
     {
         id: "07",
         nombre: "Mate Imperial Virola de acero",
-        imagen: "images/mate 7.jpg",
+        imagen: "images/mate7.jpg",
         precio: 59685
     },
 
     {
         id: "08",
         nombre: "Imperial Cincelado - Cuero Labrado",
-        imagen: "images/mate 8.jpg",
+        imagen: "images/mate8.jpg",
         precio: 46000
     },
 
     {
         id: "09",
         nombre: "Mate imperial cincelado con base y esferas",
-        imagen: "images/mate 9.jpg",
+        imagen: "images/mate9.jpg",
         precio: 57657
     },
 
     {
         id: "10",
         nombre: "Mate Algarrobo 2 Colores",
-        imagen: "images/mate 10.jpg",
+        imagen: "images/mate10.jpg",
         precio: 116829
     },
 
@@ -114,7 +114,7 @@ const productos = [
 const resenias = [
     {   
         id: "01",
-        imagen: "/images/persona 1.png",
+        imagen: "/images/persona1.png",
         nombre: "Lucia Galán",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -130,7 +130,7 @@ const resenias = [
 
     {   
         id: "02",
-        imagen: "/images/persona 2.png",
+        imagen: "/images/persona2.png",
         nombre: "Pablo Gutiérrez",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -145,7 +145,7 @@ const resenias = [
 
     {   
         id: "03",
-        imagen: "/images/persona 3.png",
+        imagen: "/images/persona3.png",
         nombre: "Matias Montilla",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -161,7 +161,7 @@ const resenias = [
 
     {   
         id: "04",
-        imagen: "/images/persona 4.png",
+        imagen: "/images/persona4.png",
         nombre: "Juliana Valle",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -175,7 +175,7 @@ const resenias = [
 
     {   
         id: "05",
-        imagen: "/images/persona 5.png",
+        imagen: "/images/persona5.png",
         nombre: "Maria Fariña",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -191,7 +191,7 @@ const resenias = [
 
     {   
         id: "06",
-        imagen: "/images/persona 6.png",
+        imagen: "/images/persona6.png",
         nombre: "Teo Barrios",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -206,7 +206,7 @@ const resenias = [
 
     {  
         id: "07",
-        imagen: "/images/persona 7.png",
+        imagen: "/images/persona7.png",
         nombre: "Luna Ruano",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -221,7 +221,7 @@ const resenias = [
 
     {   
         id: "08",
-        imagen: "/images/persona 8.png",
+        imagen: "/images/persona8.png",
         nombre: "Xavier Ocaña",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -235,7 +235,7 @@ const resenias = [
 
     {   
         id: "09",
-        imagen: "/images/persona 9.png",
+        imagen: "/images/persona9.png",
         nombre: "Lourdes Parodi",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -250,7 +250,7 @@ const resenias = [
 
     {   
         id: "10",
-        imagen: "/images/persona 10.jpg",
+        imagen: "/images/persona10.jpg",
         nombre: "Damian Leiva",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -264,7 +264,7 @@ const resenias = [
 
     {   
         id: "11",
-        imagen: "/images/persona 11.jpg",
+        imagen: "/images/persona11.jpg",
         nombre: "Noelia Royo",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
@@ -279,7 +279,7 @@ const resenias = [
 
     {   
         id: "12",
-        imagen: "/images/persona 12.jpg",
+        imagen: "/images/persona12.jpg",
         nombre: "Pablo  Falcon",
         estrellas: `
                     <i class="fa-regular fa-star"></i>
